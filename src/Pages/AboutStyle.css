@@ -1,0 +1,49 @@
+.bk-about{
+    justify-content: center;
+    background: transparent;
+    padding-top: 3vh;
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+}
+.about-title{
+    text-align: center;
+    font-size: 45px;
+    color: aliceblue;
+}
+.body-about{
+    margin-top: 2rem;
+    width: 90%;
+    height: 100%;
+    margin-left: 5%;
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+    border-radius: 20px;
+    border: 2px solid aliceblue;
+    background: rgba(77, 77, 77, 0.653);
+}
+.pic-1{
+    margin: 10px;
+    border-radius: 20px;
+    background: black;
+}
+.content-about{
+    font-size: 20px;
+    color: aliceblue;
+    width: 95%;
+    margin-left: 25px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+

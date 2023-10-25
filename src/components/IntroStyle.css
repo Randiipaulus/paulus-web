@@ -1,0 +1,50 @@
+.bk-intro{
+    justify-content: center;
+    width: 100%;
+    height: 100%;
+}
+.bk-video{
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    z-index: -1;
+    background: black;
+}
+.bk-content{
+    display: block;
+    text-align: center;
+}
+.bk-name{
+    color: white;
+    font-size: 50px;
+    margin-top: -7rem;
+}
+#well {
+    font-size: 28px;
+}
+.text-intro {
+    color: aliceblue;
+    display: flex;
+    justify-content: center;
+}
+.words-intro {
+    color: aliceblue;
+}
+.socials{
+    margin-top: 2rem;
+    display: flex;
+    justify-content: center;
+}
+.links{
+    text-decoration: none;
+    color: white;
+    height: auto;
+    font-size: 2.5rem;
+    margin-right: 10px;
+}
+
+
+
+
+

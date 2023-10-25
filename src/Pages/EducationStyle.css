@@ -1,0 +1,54 @@
+.bk-education {
+    margin: 0;
+    height: 100%;
+    width: 100%;
+    background: transparent;
+    padding-top: 3vh;
+}
+.E-box {
+    display: flex;
+    height: 100%;
+    width: 55%;
+    background: rgba(77, 77, 77, 0.412);
+    justify-content: center;
+    margin-left: 23%;
+    border-radius: 20px;
+    margin-top: 3rem;
+}
+.E-logo {
+    margin-top: 20px;
+    margin-left: 15px;
+    margin-right: 4rem;
+    margin-bottom: 1rem;
+    width: 15rem;
+    height: 16rem;
+}
+.E-left {
+    display: flex;
+    margin-top: -2rem;
+    font-size: 20px;
+}
+.E-assing {
+    margin-right: 30px;
+    color: aliceblue;
+}
+.E-dicript {
+    width: 80%;    
+}
+.E-summ {
+    font-size: 18px;
+    color: aliceblue;
+}
+.box-edu {
+    color: aliceblue;
+
+}
+
+
+
+
+
+
+
+
+
